@@ -1,0 +1,22 @@
+# Gradle
+.gradle/
+build/
+*.apk
+*.ap_
+*.dex
+
+# Android Studio
+.idea/
+.DS_Store
+*.iml
+*.iws
+*.ipr
+
+# Local properties
+local.properties
+
+# Output
+out/
+
+# Misc
+*.log
